@@ -1,0 +1,42 @@
+{
+  "name": "coding-bootcamp-testimonials-slider-master",
+  "version": "1.0.0",
+  "description": "![Design preview for the Coding Bootcamp Testimonials Slider coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.13.10",
+    "@babel/preset-env": "^7.13.10",
+    "@babel/register": "^7.13.8",
+    "autoprefixer": "^10.2.5",
+    "browser-sync": "^2.26.14",
+    "cssnano": "^4.1.10",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
+    "gulp-cache-bust": "^1.4.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-dart-sass": "^1.0.2",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-postcss": "^9.0.0",
+    "gulp-pug": "^1.3.1",
+    "gulp-purgecss": "^4.0.2",
+    "gulp-terser": "^2.0.1",
+    "postcss": "^8.2.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gastonMaino/coding-bootcamp-testimonials-slider-master.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gastonMaino/coding-bootcamp-testimonials-slider-master/issues"
+  },
+  "homepage": "https://github.com/gastonMaino/coding-bootcamp-testimonials-slider-master#readme",
+  "dependencies": {
+    "core-js": "^3.9.1"
+  }
+}
